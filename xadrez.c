@@ -77,7 +77,7 @@
     printf("PIB: %.2f bilhões de reais\n", pib1);
     printf("Número de Pontos Turísticos: %d\n", turistico1);
     printf("Densidade: %.2f hab/km²\n", densidade1);
-    printf("PIB por Capita: %.2f reais\n", capita1);
+    printf("PIB per Capita: %.2f reais\n", capita1);
 
     printf("\n *** Carta 2:\n");
     printf("Estado: %c\n", estado2);
@@ -88,7 +88,7 @@
     printf("PIB: %.2f bilhões de reais\n", pib2);
     printf("Número de Pontos Turísticos: %d\n", turistico2);
     printf("Densidade: %.2f hab/km²\n", densidade2);
-    printf("PIB por Capita: %.2f reais\n", capita2);
+    printf("PIB per Capita: %.2f reais\n", capita2);
 
     return 0;
 }
